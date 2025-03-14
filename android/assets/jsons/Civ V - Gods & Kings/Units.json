@@ -57,6 +57,19 @@
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
+{
+		"name": "Amabutho",
+		"unitType": "Sword",
+		"uniqueTo": "The Zulu",
+		"replaces": "Warrior",
+		"movement": 3,
+		"strength": 6,
+		"cost": 20,
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["Ukubhekezela I","Ukubhekezela II"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	},
 	{
 		"name": "Jaguar",
 		"unitType": "Sword",
@@ -149,6 +162,21 @@
 		"requiredTech": "Archery",
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+{
+		"name": "Assagai Warrior",
+		"unitType": "Archery",
+		"replaces": "Archer",
+		"uniqueTo": "The Zulu",
+		"movement": 5,
+		"strength": 15,
+		"rangedStrength": 20,
+		"cost": 30,
+		"requiredTech": "Archery",
+		"upgradesTo": "Crossbowman",
+		"obsoleteTech": "Machinery",
+		"uniques": ["Can move after attacking"],
 		"attackSound": "arrow"
 	},
 	{
@@ -544,6 +572,18 @@
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
 	},
+{
+		"name": "Impi",
+		"unitType": "Sword",
+		"movement": 5,
+		"strength": 30,
+		"cost": 70,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+100]% Strength <vs [Mounted] units>", "Can move immediately once bought"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "nonmetalhit"
+	},
 	{
 		"name": "Landsknecht",
 		"unitType": "Sword",
@@ -602,6 +642,7 @@
 		"attackSound": "arrow"
 		//Camel Archer should have no penalty attacking cities
 	},
+
 	{
 		"name": "Conquistador",
 		"unitType": "Mounted",
