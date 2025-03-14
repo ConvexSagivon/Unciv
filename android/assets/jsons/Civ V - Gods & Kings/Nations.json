@@ -160,7 +160,36 @@
 			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
         "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
     },
-	{
+    {
+        "name": "The Zulu",
+        "leaderName": "Shaka Zulu",
+        "adjective": ["Zulu"],
+        "startBias": ["Hill", "avoid [Snow]", "avoid [Tundra]"],
+        "preferredVictoryType": "Domination",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Your existance must come to an end!",
+        "attacked": "War on us? We commend your bravery.",
+        "defeated": "Well done, you shall triumph the tomorrow!",
+        "introduction": "King Shaka greets you well",
+
+        "neutralHello": "We see you.",
+        "hateHello": "We see you.",
+        "tradeRequest": "We have fruits to exchange.",
+        "outerColor": [110,79,33],
+        "innerColor": [245,245,245],
+        "uniqueName": "Ubuntu",
+        "uniques":  ["When conquering an encampment, earn [10] Gold and recruit a Barbarian unit <with [100]% chance>",
+            "[+20]% Strength when constructing [Ikhanda] [in all cities]"],
+        "cities": ["Ulundi","uMgungundlovu","uMhlanga","eThekwini","Amanzimtoti","Ixoxo","Mkhandaqude","Babanango","Umzinto","Umzube",
+            "Uvongo","Weza","Mthwalume","eZinqoleni","eMthenteni","Dududu","Ifafa","Hluhluwe","Ingwavuma","Mkuze",
+            "Mtubatuba","Ubombo","Manguzi","uMzinyathi","Nquthu","uThukela","Mahlabathini","Mandeni","Maphumulo","Umzimkulu",
+            "Umdloti","eMkhomazi","Umbumbulu","Umlazi","oThongathi","Ntuzuma","KwaMashu","KwaMakhutha","Isipingo","Inchanga",
+            "Inanda"],
+    },
+    {
 		"name": "France",
 		"leaderName": "Napoleon",
 		"adjective": ["French"],
