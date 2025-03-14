@@ -30,13 +30,42 @@
 
 		"outerColor": [43,81,98],
 		"innerColor": [201,248,255],
-		"uniqueName": "Ingenuity",
+		"uniqueName": "Eureka",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"]
 	},
+    {
+        "name": "The Zulu",
+        "leaderName": "Shaka Zulu",
+        "adjective": ["Zulu"],
+        "startBias": ["Plain"],
+        "preferredVictoryType": "Domination",
+
+        "startIntroPart1": "Ndabezitha! O' King, who united the Zulus; defeated the Ndwandwe's and the other inferiors. Power of God, guidance by the ancestors and the vision of the people. Your loyal forces await you, with bravery and purpose. The people chant your names.",
+        "startIntroPart2": "Great son of Senzangakhona, Our nation is fresh as our enemy's blood. And our hearts pump out in such fashion. The rivers subside for you. Lead your nation to greater heights.",
+
+        "declaringWar": "Bayede! Your existence has to end, King Shaka has ordered war on you. Prepare for defeat.",
+        "attacked": "Such pride with no substance? Our children will play with your skulls.",
+        "defeated": "I... I, I have lost?",
+        "introduction": "We see you, may our peace be fertile.",
+
+        "neutralHello": "We see you.",
+        "hateHello": "What, you rat!?",
+
+        "tradeRequest": "You are lucky for this trade - Accept it.",
+
+        "outerColor": [82,58,30],
+        "innerColor": [245,245,245],
+        "uniqueName": "Ubuntu",
+        "uniques": ["Free [Great General] <upon discovering [Civil Service] technology>", "[Great General] is earned [75]% faster"],
+        "cities": ["Ulundi","uMgungundlovu","eThekwini","Ixopo","Bulawayo","Hluhluwe","Mtubatuba","Nquthu","Jozini","Babanango","Mahlabathini",
+            "uMhlanga","Weza","Sezela","Dududu","Amahlongwa","Umzimkulu","Umgababa","KwaMakhutha","Ntuzuma","eMkhomazi","Umlazi","Umbumbulu",
+            "Inanda","Ifafa","Mthwalume","Umzumbe","Uvongo","Umzinto","Manguzi","eZinqoleni","Amandawe","Madedeni","Osizweni","Ingwavuma",
+            "Mkuze","Maphumulo","uMgungundlovwana"]
+    }
 	{
 		"name": "Greece",
 		"leaderName": "Alexander",
@@ -421,7 +450,29 @@
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]
 	},
+    {
+        "name": "Kongo"
+        "leaderName": "Mvemba a Nzinga",
+        "adjective": ["Kongolese"],
+        "startBias": ["Jungle"],
+        "preferredVictoryType": "Cultural",
 
+        "startIntroPart1": "Welcome Mvemba, the ruler of Kongo. Servant of God, follower of God, and leader to the Kongolese. Diplomat to the Europeans, Mvemba to those of your origins. May many blessings be held onto you. You are the belovelent King of Kongo, with care for the people. You have brought prosperity to Kongo.",
+        "startIntroPart2": "Gracious Mvemba, may your kingdom prosper? Will virtues be on your side? Will Kongo rise to topple Africa, to dispel dark souls of Africa. The tsetse's to the Earth! Will your empire prevail!",
+
+        "declaringWar": "Your ideals have fallen against God, prepare for annihilation!",
+        "attacked": "Your foolishness! Prepare to be destroyed!",
+        "defeated": "Who will guard the Kongolese, the night has come.",
+        "introduction": "Welcome, the land of Kongo greets you with goodwill",
+
+        "neutralHello": "Greetings,",
+        "hateHello": "What.",
+        "tradeRequest": "O' what fruits shall you delight in, the precious fruits of Kongo!",
+
+        "outerColor":,
+        "innerColor":,
+        "uniqueName": "Children of God",
+        "uniques": ["[+20%] Strength, <within [3] tiles of [Lumber Mill]"], 
 	{
 		"name": "Iroquois",
 		"leaderName": "Hiawatha",
